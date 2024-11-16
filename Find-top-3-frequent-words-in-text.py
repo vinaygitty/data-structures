@@ -1,5 +1,5 @@
 """
-Dictionaries: Find top 3 words in text
+Dictionaries: Find top 3 frequent words in text
 """
 def frequent_words_finder(text):
     from collections import defaultdict
